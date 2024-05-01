@@ -11,8 +11,8 @@
   - SEP（软件基础实践）
   - CDM（离散数学）
   - ICS（计算机系统基础）
-  - [E-BOOKSTORE](#https://github.com/nwdnys1/E-Bookstore)（互联网应用开发技术 因未结课所以暂时不公开）
-  - [Online-Consultation-Platform](#)（软件工程基础与实践 因未结课所以暂时不公开）
+  - [E-BOOKSTORE](https://github.com/nwdnys1/E-Bookstore)（互联网应用开发技术 因未结课所以暂时不公开）
+  - [Online-Consultation-Platform]()（软件工程基础与实践 因未结课所以暂时不公开）
 
 - 课外项目
 
