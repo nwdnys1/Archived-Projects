@@ -14,7 +14,7 @@
   - ADS（高级数据结构）
   - MMCS（计算机科学的数学基础）
   - [E-BOOKSTORE](https://github.com/nwdnys1/E-Bookstore)（互联网应用开发技术 因未结课所以暂时不公开）
-  - [JustAsk！-网上咨询平台]()（软件工程基础与实践）
+  - [JustAsk！-网上咨询平台](https://github.com/Horizon12275/JustAsk)（软件工程基础与实践）
 
 - 课外项目
 
