@@ -1,8 +1,8 @@
-# My-Projects
+# Archived Projects
 
 ## 项目介绍
 
-本人在 SJTU 软件工程本科期间的项目清单，包含本科课程项目以及一些课外项目。
+在 SJTU 软件工程本科期间已归档的项目，包含**本科课程项目**以及一些**课外项目**。
 
 ## 项目目录
 
@@ -13,9 +13,14 @@
   - ICS（计算机系统基础）
   - ADS（高级数据结构）
   - MMCS（计算机科学的数学基础）
-  - [E-BOOKSTORE](https://github.com/nwdnys1/E-Bookstore)（互联网应用开发技术 因未结课所以暂时不公开）
-  - [JustAsk！-网上咨询平台](https://github.com/Horizon12275/JustAsk)（软件工程基础与实践）
+  - [E-BOOKSTORE](https://github.com/nwdnys1/E-Bookstore)
+  - [JustAsk - 多领域一对一咨询平台](https://github.com/Horizon12275/JustAsk)
+  - [TimeGenie - AI 日程管理助手 APP](https://github.com/Horizon12275/TimeGenie)
 
 - 课外项目
 
   - OLC（大一暑研项目）
+
+## 贡献者
+
+- [关于 - nwdnysl](https://nwdnys1.github.io/about)
